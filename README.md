@@ -1,15 +1,15 @@
 # Exrcise-1
 a) Output Sequence
-1         11         Fizz
-2         Fizz       22
-Fizz      13         23
-4         14         Fizz
-Buzz      FizzBuzz   Buzz
-Fizz      16         26 
-7         17         Fizz
-8         Fizz       28
-Fizz      19         29 
-Buzz      Buzz       FizzBuzz
+1<br>         11<br>         Fizz<br>
+2<br>         Fizz<br>       22<br>
+Fizz<br>      13<br>         23<br>
+4<br>         14<br>         Fizz<br>
+Buzz<br>      FizzBuzz<br>   Buzz<br>
+Fizz<br>      16<br>         26<br> 
+7<br>         17<br>         Fizz<br>
+8<br>         Fizz<br>       28<br>
+Fizz<br>      19<br>         29<br> 
+Buzz<br>      Buzz<br>       FizzBuzz<br>
 
 b) Algorithm
 1) Enter the number less or equal to 30
