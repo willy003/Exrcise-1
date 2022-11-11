@@ -49,7 +49,7 @@ b) Algorithm
 6) Increment the number by 1<br>
 
 c) Code<br>
-   <?php<br>
+     <?php<br>
    for($i=1;$1<=30;$i++)<br>
    {<br>
    if($i%3==0 && $i%5==0)<br>
