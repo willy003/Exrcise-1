@@ -1,35 +1,35 @@
 # Exercise-1<br>
 a) Output Sequence<br>
-1
-2
-Fizz
-4
-Buzz
-Fizz
-7
-8
-Fizz
-Buzz
-11
-Fizz
-13
-14
-Fizzbuzz
-16
-17
-Fizz
-19
-Buzz
-Fizz
-22
-23
-Fizz
-Buzz
-26
-Fizz
-28
-29
-FizzBuzz
+1<br>
+2<br>
+Fizz<br>
+4<br>
+Buzz<br>
+Fizz<br>
+7<br>
+8<br>
+Fizz<br>
+Buzz<br>
+11<br>
+Fizz<br>
+13<br>
+14<br>
+Fizzbuzz<br>
+16<br>
+17<br>
+Fizz<br>
+19<br>
+Buzz<br>
+Fizz<br>
+22<br>
+23<br>
+Fizz<br>
+Buzz<br>
+26<br>
+Fizz<br>
+28<br>
+29<br>
+FizzBuzz<br>
 
 
 b) Algorithm
@@ -48,12 +48,12 @@ b) Algorithm
    No-> Go to next step
 6) Increment the number by 1
 
-c) Code
- <?php
- for($i=1;$1<=30;$i++)
- {
-   if($i%3==0 && $i%5==0)
-   {
+c) Code<br>
+ <?php<br>
+ for($i=1;$1<=30;$i++)<br>
+ {<br>
+   if($i%3==0 && $i%5==0)<br>
+   {<br>
      echo "FizzBuzz<br>";
    }
    else if($i%3==0)
