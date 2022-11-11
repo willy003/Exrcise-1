@@ -46,7 +46,7 @@ b) Algorithm
 5) Check if number is divisible by 5
    Yes-> Print Buzz and go to step 6
    No-> Go to next step
-6) Increment the number by 1
+6) Increment the number by 1<br>
 
 c) Code<br>
  <?php<br>
@@ -54,18 +54,18 @@ c) Code<br>
  {<br>
    if($i%3==0 && $i%5==0)<br>
    {<br>
-     echo "FizzBuzz<br>";
-   }
-   else if($i%3==0)
-   {
-     echo "Fizz<br>";
-   }
-   else if($i%5==0)
-   {
-     echo "Buzz<br>";
-   }
-   else
-   {
-      echo "$i";
-   }
-}
+     echo "FizzBuzz<br>";<br>
+   }<br>
+   else if($i%3==0)<br>
+   {<br>
+     echo "Fizz<br>";<br>
+   }<br>
+   else if($i%5==0)<br>
+   {<br>
+     echo "Buzz<br>";<br>
+   }<br>
+   else<br>
+   {<br>
+      echo "$i";<br>
+   }<br>
+}<br>
