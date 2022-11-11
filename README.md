@@ -1,5 +1,5 @@
-# Exercise-1
-a) Output Sequence
+# Exercise-1<br>
+a) Output Sequence<br>
 1
 2
 Fizz
