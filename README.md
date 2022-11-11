@@ -49,20 +49,20 @@ b) Algorithm
 6) Increment the number by 1<br>
 
 c) Code<br>
- <?php<br>
+<?php
  for($i=1;$1<=30;$i++)<br>
  {<br>
    if($i%3==0 && $i%5==0)<br>
    {<br>
-     echo "FizzBuzz<br>";<br>
+     echo "FizzBuzz";<br>
    }<br>
    else if($i%3==0)<br>
    {<br>
-     echo "Fizz<br>";<br>
+     echo "Fizz";<br>
    }<br>
    else if($i%5==0)<br>
    {<br>
-     echo "Buzz<br>";<br>
+     echo "Buzz";<br>
    }<br>
    else<br>
    {<br>
